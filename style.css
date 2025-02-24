@@ -21,7 +21,7 @@ div, ul, span{
   width: 300px;
 }
 
-h2 {
+h2,h3{
   text-transform: uppercase;
   text-align: center; 
   font-size: 2em;
